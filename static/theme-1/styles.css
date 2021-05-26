@@ -802,7 +802,7 @@ ol.comment-list li { list-style: none; margin-bottom: 0px; }
 .container { max-width: 1200px; margin: 0px auto; padding-left: 30px; padding-right: 30px; }
 .inner-wrapper { margin-left: -15px; margin-right: -15px; }
 .menu-social-menu-container ul, .page-template-no-space #content .entry-content, .page-template-skeleton #content .entry-content { margin: 0px; }
-#primary { float: left; width: 70%; padding-left: 15px; padding-right: 15px; }
+#primary { float: left; width: 100%; padding-left: 15px; padding-right: 15px; }
 .page-template-full-width #primary, .page-template-no-space #primary, .page-template-skeleton #primary { width: 100%; }
 .page-template-skeleton #primary { padding-left: 0px; padding-right: 0px; }
 #secondary { float: left; width: 30%; padding-left: 15px; padding-right: 15px; }
@@ -1092,7 +1092,7 @@ li.product:hover .product-thumb-wrap > a::before { opacity: 0.8; }
 }
 @media screen and (max-width: 991px) {
   .subscribe-btn-pack input[type="submit"] { width: 100%; position: relative; }
-  #primary { width: 60%; }
+  #primary { width: 100%; }
   #secondary { width: 40%; }
 }
 @media screen and (max-width: 850px) {
