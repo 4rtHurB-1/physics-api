@@ -10,7 +10,7 @@ app.use( bodyParser.urlencoded({ extended: true }) );
 app.use('/', helloRoute);
 app.use('/static', express.static('static'));
 
-const PORT = 80;
+const PORT = 3000;
 app.listen(PORT , () => {
   console.log(`Start olx-cron (port=${PORT})`);
 });
