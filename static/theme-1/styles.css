@@ -1112,7 +1112,7 @@ li.product:hover .product-thumb-wrap > a::before { opacity: 0.8; }
   .site-footer .site-info { margin-bottom: 15px; }
   .additional-btn { margin-right: 25px; margin-top: 0px; z-index: 999999; }
 }
-.site-footer, .site-header, body { background-color: rgb(224, 250, 255); }
+.site-footer, .site-header, body { background-color: #F2F2F2; }
 .site-title { margin-top: 0px; }
 .head-wrap-inner { width: 100%; }
 .site-branding { width: 100%; text-align: center; }
@@ -2638,7 +2638,7 @@ a.meanmenu-reveal { display: none; }
 .mean-nav .wrapper { width: 100%; padding: 0px; margin: 0px; }
 .mean-container .mean-bar, .mean-container .mean-bar * { box-sizing: content-box; }
 .mean-remove { display: none !important; }
-.site-footer, .site-header, body { background-color: rgb(224, 250, 255); }
+.site-footer, .site-header, body { background-color: #F2F2F2; }
 .site-title { margin-top: 0px; }
 .head-wrap-inner { width: 100%; }
 .site-branding { width: 100%; text-align: center; }
