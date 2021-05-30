@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "4578physics788799",
+    "database": "physics-db",
+    "host": "physics-db.cxky6dhihs14.eu-central-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "4578physics788799",
+    "database": "physics-db",
+    "host": "physics-db.cxky6dhihs14.eu-central-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "4578physics788799",
+    "database": "physics-db",
+    "host": "physics-db.cxky6dhihs14.eu-central-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
